@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2024<br>📚 Estou atualmente estudando Java e Power BI</p>
+<p align="left">📚 Estou atualmente estudando Java e Power BI</p>
 
 ###
 
